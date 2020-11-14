@@ -1,8 +1,20 @@
 # Study_for_Algorithm
-<br>
-<br>
-<br>
-This course has a total of 15 courses, including array, connectivity list, stack, queue, deq, stack utilization, BFS, DFS, recursive.
+<br><\br>
+We will learn about the basics and use of algorithms through YouTube's Barking Dog video.
+<br><br\>
+
+### course has a total of 15 courses, including 
+<br><br\>
+* array
+* linked list
+* stack
+* queue
+* deq
+* stack utilization
+* BFS
+* DFS
+* recursive.
+
 <br>
 I'm going to upload the organizing of the lecture on a notion.
 <br>
