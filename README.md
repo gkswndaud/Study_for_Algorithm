@@ -27,4 +27,5 @@ I'm going to upload the organizing of the lecture on a notion.
 <br>
 <br>
 <br>
+
 Reference: https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY
