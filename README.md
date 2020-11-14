@@ -5,6 +5,7 @@ We will learn about the basics and use of algorithms through YouTube's Barking D
 
 ### course has a total of 15 courses, including 
 <br>
+
 * array
 * linked list
 * stack
