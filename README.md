@@ -1,10 +1,10 @@
 # Study_for_Algorithm
-<br><\br>
+<br>
 We will learn about the basics and use of algorithms through YouTube's Barking Dog video.
-<br><br\>
+<br>
 
 ### course has a total of 15 courses, including 
-<br><br\>
+<br>
 * array
 * linked list
 * stack
