@@ -3,7 +3,7 @@
 We will learn about the basics and use of algorithms through YouTube's Barking Dog video.
 <br>
 
-### course has a total of 15 courses, including 
+### course has a total of 15 courses, including  
 <br>
 
 * array
