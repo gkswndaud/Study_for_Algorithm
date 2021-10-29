@@ -1,4 +1,4 @@
-# Study_for_Algorithm
+# Study_for _Algorithm
 <br>
 We will learn about the basics and use of algorithms through YouTube's Barking Dog video.
 <br>
